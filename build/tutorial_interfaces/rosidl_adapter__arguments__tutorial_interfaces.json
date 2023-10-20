@@ -1,0 +1,8 @@
+{
+  "package_name": "tutorial_interfaces",
+  "non_idl_tuples": [
+    "/home/devuser/AOX/ROS2/src/tutorial_interfaces:msg/Num.msg",
+    "/home/devuser/AOX/ROS2/src/tutorial_interfaces:msg/Sphere.msg",
+    "/home/devuser/AOX/ROS2/src/tutorial_interfaces:srv/Shutdown.srv"
+  ]
+}

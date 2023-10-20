@@ -1,0 +1,215 @@
+[0.694s] Invoking command in '/home/devuser/AOX/ROS2/src/tutorial_interfaces/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/devuser/AOX/ROS2/src/tutorial_interfaces/build/tutorial_interfaces -- -j8 -l8
+[4.960s] [  2%] Built target tutorial_interfaces__cpp
+[7.336s] [  2%] Built target ament_cmake_python_copy_tutorial_interfaces
+[8.730s] [ 12%] Built target tutorial_interfaces__rosidl_typesupport_introspection_cpp
+[10.607s] running egg_info
+[10.609s] writing tutorial_interfaces.egg-info/PKG-INFO
+[10.629s] writing dependency_links to tutorial_interfaces.egg-info/dependency_links.txt
+[10.631s] writing top-level names to tutorial_interfaces.egg-info/top_level.txt
+[11.052s] reading manifest file 'tutorial_interfaces.egg-info/SOURCES.txt'
+[11.234s] writing manifest file 'tutorial_interfaces.egg-info/SOURCES.txt'
+[11.505s] [ 12%] Built target ament_cmake_python_build_tutorial_interfaces_egg
+[13.410s] [ 23%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_cpp
+[15.018s] [ 34%] Built target tutorial_interfaces__rosidl_typesupport_cpp
+[16.028s] [ 44%] Built target tutorial_interfaces__rosidl_generator_c
+[17.661s] [ 55%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_c
+[18.764s] [ 65%] Built target tutorial_interfaces__rosidl_typesupport_c
+[19.763s] [ 76%] Built target tutorial_interfaces__rosidl_typesupport_introspection_c
+[20.224s] [ 76%] Built target tutorial_interfaces
+[20.910s] [ 78%] Built target tutorial_interfaces__py
+[22.108s] [ 87%] Built target tutorial_interfaces__rosidl_generator_py
+[23.154s] [ 91%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[24.253s] [ 95%] Built target tutorial_interfaces__rosidl_typesupport_c__pyext
+[25.253s] [100%] Built target tutorial_interfaces__rosidl_typesupport_introspection_c__pyext
+[25.268s] Invoked command in '/home/devuser/AOX/ROS2/src/tutorial_interfaces/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/devuser/AOX/ROS2/src/tutorial_interfaces/build/tutorial_interfaces -- -j8 -l8
+[25.425s] Invoking command in '/home/devuser/AOX/ROS2/src/tutorial_interfaces/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/devuser/AOX/ROS2/src/tutorial_interfaces/build/tutorial_interfaces
+[25.935s] -- Install configuration: ""
+[26.017s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/ament_index/resource_index/rosidl_interfaces/tutorial_interfaces
+[26.017s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[26.018s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[26.018s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/shutdown.h
+[26.018s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[26.018s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.h
+[26.019s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__functions.c
+[26.019s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__functions.c
+[26.019s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__type_support.h
+[26.019s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__struct.h
+[26.019s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__functions.h
+[26.019s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__functions.h
+[26.019s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__struct.h
+[26.019s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/add_three_ints.h
+[26.020s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[26.020s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/num.h
+[26.020s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/sphere.h
+[26.020s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_generator_c__visibility_control.h
+[26.020s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[26.020s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.h
+[26.020s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__functions.h
+[26.020s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__struct.h
+[26.020s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.h
+[26.021s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__functions.c
+[26.021s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__functions.h
+[26.021s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__struct.h
+[26.021s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__functions.c
+[26.021s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/environment/library_path.sh
+[26.021s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/environment/library_path.dsv
+[26.362s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_generator_c.so
+[26.362s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[26.362s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[26.363s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[26.363s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_c.h
+[26.363s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__rosidl_typesupport_fastrtps_c.h
+[26.363s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[26.363s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[26.363s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_c.h
+[26.363s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_fastrtps_c.h
+[26.364s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[26.936s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_fastrtps_c.so
+[26.937s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[26.937s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[26.937s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/add_three_ints.hpp
+[26.938s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[26.938s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__traits.hpp
+[26.938s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__builder.hpp
+[26.938s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__traits.hpp
+[26.938s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__struct.hpp
+[26.938s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__struct.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__builder.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/shutdown.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/num.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/sphere.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__struct.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__struct.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__traits.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__builder.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__traits.hpp
+[26.939s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__builder.hpp
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_cpp.hpp
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__rosidl_typesupport_fastrtps_cpp.hpp
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/dds_fastrtps
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_cpp.hpp
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_fastrtps_cpp.hpp
+[26.940s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/dds_fastrtps
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__rosidl_typesupport_introspection_c.h
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__type_support.c
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.c
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_introspection_c.h
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[26.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.c
+[26.953s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_introspection_c.h
+[26.953s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_introspection_c.h
+[26.953s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.c
+[26.963s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_introspection_c.so
+[26.970s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_c.so
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_introspection_cpp.hpp
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__type_support.cpp
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.cpp
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/shutdown__rosidl_typesupport_introspection_cpp.hpp
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[26.971s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_introspection_cpp.hpp
+[26.972s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.cpp
+[26.972s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_introspection_cpp.hpp
+[26.972s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.cpp
+[27.317s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_introspection_cpp.so
+[27.629s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_cpp.so
+[27.629s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/environment/pythonpath.sh
+[27.630s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/environment/pythonpath.dsv
+[27.630s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info
+[27.630s] -- Installing: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[27.630s] -- Installing: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[27.631s] -- Installing: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[27.631s] -- Installing: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[27.631s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces
+[27.631s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[27.632s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv
+[27.632s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/_add_three_ints.py
+[27.632s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/_shutdown_s.c
+[27.633s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/_add_three_ints_s.c
+[27.633s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/__init__.py
+[27.633s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/_shutdown.py
+[27.633s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[27.633s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/libtutorial_interfaces__rosidl_generator_py.so
+[27.634s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[27.634s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[27.634s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/__init__.py
+[27.634s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[27.634s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg
+[27.634s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_sphere_s.c
+[27.634s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_num_s.c
+[27.634s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_sphere.py
+[27.635s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_num.py
+[27.635s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/__init__.py
+[27.635s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_c.c
+[28.505s] Listing '/home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces'...
+[28.506s] Listing '/home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg'...
+[28.506s] Listing '/home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv'...
+[28.952s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[29.207s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[29.341s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[29.697s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_generator_py.so
+[29.697s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/msg/Num.idl
+[29.697s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/msg/Sphere.idl
+[29.697s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/srv/Shutdown.idl
+[29.697s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/msg/Num.msg
+[29.698s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/msg/Sphere.msg
+[29.698s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/srv/Shutdown.srv
+[29.698s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/srv/Shutdown_Request.msg
+[29.698s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/srv/Shutdown_Response.msg
+[29.698s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/ament_index/resource_index/package_run_dependencies/tutorial_interfaces
+[29.698s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/ament_index/resource_index/parent_prefix_path/tutorial_interfaces
+[29.698s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.sh
+[29.699s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.dsv
+[29.699s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.sh
+[29.699s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.dsv
+[29.699s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.bash
+[29.699s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.sh
+[29.699s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.zsh
+[29.699s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.dsv
+[29.699s] -- Installing: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/package.dsv
+[29.754s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/ament_index/resource_index/packages/tutorial_interfaces
+[29.906s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cExport.cmake
+[29.906s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cExport-noconfig.cmake
+[30.184s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[30.184s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[30.528s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cppExport.cmake
+[30.828s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[30.828s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[31.062s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[31.062s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[31.362s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cExport.cmake
+[31.362s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[32.062s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[32.062s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[32.084s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cppExport.cmake
+[32.084s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[32.118s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_pyExport.cmake
+[32.118s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[32.118s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake-extras.cmake
+[32.119s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[32.119s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[32.119s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[32.119s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[32.119s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[32.119s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[32.119s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig.cmake
+[32.119s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig-version.cmake
+[32.119s] -- Up-to-date: /home/devuser/AOX/ROS2/src/tutorial_interfaces/install/tutorial_interfaces/share/tutorial_interfaces/package.xml
+[32.304s] Invoked command in '/home/devuser/AOX/ROS2/src/tutorial_interfaces/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/devuser/AOX/ROS2/src/tutorial_interfaces/build/tutorial_interfaces
